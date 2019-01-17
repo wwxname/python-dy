@@ -1,0 +1,14 @@
+setup.py
+src/demo.egg-info/PKG-INFO
+src/demo.egg-info/SOURCES.txt
+src/demo.egg-info/dependency_links.txt
+src/demo.egg-info/top_level.txt
+src/wwx/Access.py
+src/wwx/__init__.py
+src/wwx/application.py
+src/wwx/mem.py
+src/wwx/param.py
+src/wwx/proxy.py
+src/wwx/super_.py
+src/wwx/t001.py
+src/wwx/test.py
